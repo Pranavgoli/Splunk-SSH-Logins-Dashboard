@@ -26,7 +26,14 @@ This project demonstrates a complete **"Data-to-Dashboard"** pipeline. I enginee
 3.  **Analyze:** Use the visual panels to monitor for SSH authentication anomalies.
 
 ## 📸 Dashboard Preview
-[![Splunk Dashboard Preview](Dashboard_preview.png)]
+[![Splunk Dashboard Preview]
+<img width="1919" height="960" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/98559f42-cbef-4d3e-a23a-687c42b0ebdb" />
+
+<img width="1919" height="589" alt="Screenshot 2026-05-01 155202" src="https://github.com/user-attachments/assets/c252f271-b855-414c-90a6-e5d1b794af5f" />
+
+<img width="1919" height="969" alt="Screenshot 2026-05-01 160240" src="https://github.com/user-attachments/assets/6ac60184-1d73-4063-80ef-56851362e9fa" />
+
+
 
 ---
 
